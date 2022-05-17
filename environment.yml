@@ -3,4 +3,4 @@ name: xbrl_api
 dependencies:
   - python=3.8
   - pandas
-  - requests
+  - openpyxl
